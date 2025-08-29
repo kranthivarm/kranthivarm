@@ -2,7 +2,7 @@
 
 👨‍💻 **BTech CSE Student @ Aditya Engineering College**  
 💡 **Full-Stack Developer (MERN) | Mobile App Developer (Flutter) | Competitive Coder**  
-🚀 Passionate about building scalable applications and solving real-world problems  
+🚀 Passionate about building maintainable applications and solving real-world problems  
 
 ---
 
