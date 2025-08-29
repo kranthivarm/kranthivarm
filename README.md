@@ -36,15 +36,16 @@
 
 ---
 
-## 📊 GitHub Stats  
 
+
+
+## 📊 GitHub Stats
 <!-- <p align="center">
   <img src="https://komarev.com/ghpvc/?username=kranthivarma&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 </p> -->
-## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kranthivarma&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=kranthivarma&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
 </p>
 
 <p align="center">
@@ -52,5 +53,5 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kranthivarma&layout=compact&theme=tokyonight&count_private=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kranthivarma&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
