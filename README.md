@@ -38,9 +38,9 @@
 
 ## 📊 GitHub Stats  
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://komarev.com/ghpvc/?username=kranthivarma&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
-</p>
+</p> -->
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=kranthivarma&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
