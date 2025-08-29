@@ -39,10 +39,15 @@
 
 ## 📊 GitHub Stats
 
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kranthivarma&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=kranthivarm&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kranthivarma&layout=compact&theme=tokyonight&hide=html" alt="Most Used Languages" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kranthivarm&theme=tokyonight" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kranthivarm&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
