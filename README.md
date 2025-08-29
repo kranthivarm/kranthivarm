@@ -41,8 +41,16 @@
 <!-- <p align="center">
   <img src="https://komarev.com/ghpvc/?username=kranthivarma&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 </p> -->
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kranthivarma&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true)
+## 📊 GitHub Stats
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=kranthivarma&theme=tokyonight)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=kranthivarma&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" alt="GitHub Stats" />
+</p>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kranthivarma&layout=compact&theme=tokyonight&count_private=true)
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kranthivarma&theme=tokyonight" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kranthivarma&layout=compact&theme=tokyonight&count_private=true" alt="Top Languages" />
+</p>
